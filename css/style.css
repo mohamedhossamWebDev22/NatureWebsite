@@ -296,6 +296,7 @@ body{
     animation: none hovSocialTik 1.2s;
 }
 
+
 /*animtions*/
 @keyframes hov{
     50%{background-color: green;}
